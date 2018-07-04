@@ -1,5 +1,7 @@
 # Blockchain
 
+[Cryptocurrencies by Market Capitalization](https://coinmarketcap.com/)
+
 ## Refers
 
 * [Master Bitcoin](http://zhibimo.com/read/wang-miao/mastering-bitcoin/index.html)
@@ -8,6 +10,8 @@
 
 ## Docs List
 
+* [docs/0011_blockchain_guide.md](docs/0011_blockchain_guide.md)
+* [docs/0010_Understand_Quantitative_Trading.md](docs/0010_Understand_Quantitative_Trading.md)
 * [docs/0009_Ethereum_Truffle.md](docs/0009_Ethereum_Truffle.md)
 * [docs/0008_Ethereum_Solidity.md](docs/0008_Ethereum_Solidity.md)
 * [docs/0007_A_Peer-to-Peer_Electronic_Cash_System.md](docs/0007_A_Peer-to-Peer_Electronic_Cash_System.md)
